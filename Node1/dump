@@ -1,0 +1,870 @@
+Vote granted for Node 4 in term 1.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 1 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Vote granted for Node 4 in term 2.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 2 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Vote granted for Node 4 in term 3.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 2 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 3 to the state machine.
+Node 1 (follower) committed the entry NO-OP 3 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 3 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 3 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 3 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 3 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 3 to the state machine.
+Vote granted for Node 4 in term 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 3 to the state machine.
+Node 1 (follower) committed the entry NO-OP 3 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 3 to the state machine.
+Node 1 (follower) committed the entry NO-OP 4 to the state machine.
+Node 1 (follower) committed the entry NO-OP 4 to the state machine.
+Vote granted for Node 4 in term 5.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 4 to the state machine.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Vote granted for Node 4 in term 6.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 (follower) committed the entry NO-OP 5 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Vote granted for Node 5 in term 7.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 6 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 7 to the state machine.
+Node 1 (follower) committed the entry NO-OP 7 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 7 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 7 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 7 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 7 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 7 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 7 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 7 to the state machine.
+Vote denied for Node 4 in term 7.
+Vote granted for Node 5 in term 8.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 7 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 7 to the state machine.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Vote granted for Node 4 in term 9.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 8 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 9 to the state machine.
+Node 1 (follower) committed the entry NO-OP 9 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 9 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 9 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 9 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 9 to the state machine.
+Node 1 election timer timed out, Starting election.
+Node 1 became the leader for term 10.
+Node 1 (leader) appended the entry NO-OP 10 to the state machine.
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Vote denied for Node 4 in term 10.
+Vote denied for Node 5 in term 9.
+Node 1 election timer timed out, Starting election.
+Vote granted for Node 3 in term 15.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 3.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Vote granted for Node 4 in term 16.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 15 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 16 to the state machine.
+Node 1 (follower) committed the entry NO-OP 16 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 16 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 16 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 16 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 16 to the state machine.
+Vote granted for Node 4 in term 17.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 16 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 17 to the state machine.
+Node 1 (follower) committed the entry NO-OP 17 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 17 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 17 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 17 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 17 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 17 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 17 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 17 to the state machine.
+Vote granted for Node 4 in term 18.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 17 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 18 to the state machine.
+Node 1 (follower) committed the entry NO-OP 18 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 18 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 18 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 18 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 18 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 18 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 18 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 18 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 18 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 18 to the state machine.
+Vote granted for Node 4 in term 19.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 18 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Vote granted for Node 4 in term 20.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 19 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry SET Hello 123 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry GET Hello 20 to the state machine.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Vote granted for Node 4 in term 21.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 20 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 21 to the state machine.
+Node 1 (follower) committed the entry NO-OP 21 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 21 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 21 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 21 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 21 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 21 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 21 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry SET Banana 20 21 to the state machine.
+Node 1 accepted AppendEntries RPC from 4.
+Node 1 (follower) committed the entry NO-OP 21 to the state machine.
+Vote granted for Node 5 in term 22.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 21 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 22 to the state machine.
+Node 1 (follower) committed the entry NO-OP 22 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 22 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 22 to the state machine.
+Node 1 accepted AppendEntries RPC from 5.
+Node 1 (follower) committed the entry NO-OP 22 to the state machine.
+Node 1 election timer timed out, Starting election.
+Node 1 became the leader for term 23.
+Node 1 (leader) appended the entry NO-OP 23 to the state machine.
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease
+Leader 1 sending heartbeat & Renewing Lease

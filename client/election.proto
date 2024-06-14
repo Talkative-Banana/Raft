@@ -1,0 +1,123 @@
+syntax = "proto3";
+
+package election;
+
+service Election {
+    rpc ServeClient(ServeClientArgs) returns (ServeClientReply) {}
+    rpc RequestVote(RequestVoteRequest) returns (RequestVoteResponse) {}
+    rpc AppendEntries(RequestAppendEntries) returns (ResponseAppendEntries) {}
+}
+
+message ServeClientArgs {
+    string Request = 1;
+}
+
+message ServeClientReply {
+    string Data = 1;
+    string LeaderID = 2;
+    bool Success = 3;
+}
+
+message RequestVoteRequest {
+    int32 term = 1;
+    int32 candidate_id = 2;
+    int32 lastLogIndex = 3;
+    int32 lastLogTerm = 4;
+    int32 leasedurationremaining = 5;
+}
+
+message RequestVoteResponse {
+    int32 term = 1;
+    bool vote_granted = 2;
+}
+
+message RequestAppendEntries {
+    int32 term = 1;
+    int32 leaderId = 2;
+    int32 prevLogIndex = 3;
+    int32 prevLogTerm = 4;
+    int32 leaderCommit = 5;
+    repeated string entries = 6;
+    int32 leaseintervalduration = 7;
+}
+
+message ResponseAppendEntries {
+    int32 term = 1;
+    bool success = 2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// syntax = "proto3";
+
+// package election;
+
+// service Election {
+//     rpc RequestVote(RequestVoteRequest) returns (RequestVoteResponse) {}
+//     rpc AppendEntries(RequestAppendEntries) returns (ResponseAppendEntries) {}
+//     rpc GetValues(GetValuesRequest) returns (ServeClientReply) {}
+//     rpc SetValues(SetValuesRequest) returns (ServeClientReply) {}
+// }
+
+// message RequestVoteRequest {
+//     int32 term = 1;
+//     int32 candidate_id = 2;
+//     int32 lastLogIndex = 3;
+//     int32 lastLogTerm = 4;
+//     int32 leasedurationremaining = 5;
+// }
+
+// message RequestVoteResponse {
+//     int32 term = 1;
+//     bool vote_granted = 2;
+// }
+
+// message RequestAppendEntries {
+//     int32 term = 1;
+//     int32 leaderId = 2;
+//     int32 prevLogIndex = 3;
+//     int32 prevLogTerm = 4;
+//     int32 leaderCommit = 5;
+//     repeated string entries = 6;
+//     int32 leaseintervalduration = 7;
+// }
+
+// message ResponseAppendEntries {
+//     int32 term = 1;
+//     bool success = 2;
+// }
+
+// message GetValuesRequest {
+//     string key = 1;
+// }
+
+// message SetValuesRequest {
+//     string key = 1;
+//     string value = 2;
+// }
+
+// message ServeClientReply {
+//     string Data = 1;
+//     string LeaderID = 2;
+//     bool Success = 3;
+// }

@@ -1,19 +1,19 @@
 <!-- PROJECT LOGO --> <br /> <p align="center"> <a href="https://github.com/Talkative-Banana/Raft"> <img src="logo/raft-seeklogo.svg" alt="Logo" width="320" height="320"> </a>
 
-# Raft
 <!-- ABOUT THE PROJECT -->
+# Raft
 This Project focuses on implementing a modified Raft system with the leader lease modification similar to those used by geo-distributed Database clusters such as [CockroachDB](https://www.cockroachlabs.com/) or [YugabyteDB](https://www.yugabyte.com/). 
 
 Raft is a consensus algorithm designed for distributed systems to ensure fault tolerance and consistency. It operates through leader election, log replication, and commitment of entries across a cluster of nodes. The aim is to build a database that stores key-value pairs mapping string (key) to string (value).
 
-### Built With
 <!-- BUILT WITH -->
+### Built With
 * [Python](https://www.python.org/)
 * [gRPC](https://grpc.io/)
 * [Google Cloud](https://cloud.google.com/)
 
-### Table of Contents
 <!-- TABLE OF CONTENTS -->
+### Table of Contents
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -39,8 +39,8 @@ Raft is a consensus algorithm designed for distributed systems to ensure fault t
   </ol>
 </details>
 
-## Documentation
 <!-- DOCUMENTATION -->
+## Documentation
 ### Storage and Database Options
 
 The Raft Nodes serve the client for storing and retrieving these key-value pairs and replicating this data among other nodes in a fault-tolerant manner.
@@ -123,19 +123,19 @@ These RPCs are modified as follows for leader lease:
 
 For any other requirements refer [Documentation](https://github.com/Talkative-Banana/Raft/logo/Document.html)
 
-## Getting Started
 <!-- GETTING-STARTED -->
+## Getting Started
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
 <!-- PREREQUISITES -->
+### Prerequisites
 * Basic understanding of Python (Tutorials: [English](https://youtu.be/_uQrJ0TkZlc) | [Hindi](https://youtu.be/gfDE2a7MKjA))
 * Python installed on your computer ([Download from Here](https://www.python.org/downloads/))
 * GitHub Account ([Sign Up](https://github.com/))
 * gRPC ([Download from here](https://grpc.io/))
 
-### Installation
 <!-- INSTALLATION -->
+### Installation
 * Clone the repo
 
         git clone https://github.com/Talkative-Banana/Raft.git
@@ -143,8 +143,9 @@ To get a local copy up and running follow these simple steps.
         run the sh file with asked parameters
 
 For MacOS or Windows you need to either run each node and client manually or change the build file to run all of them locally.
-## Deployment
+
 <!-- DEPLOYMENT -->
+## Deployment
 ### Remote Deployment
 
 * Set up google cloud or docker containers and update the firewall settings to accept and send remote request.
@@ -156,13 +157,14 @@ For MacOS or Windows you need to either run each node and client manually or cha
 ### Local Deployment
 
 * Simply grant permission to sh file and run it with required parameters.
-## Roadmap
+
 <!-- ROADMAP -->
+## Roadmap
 - Clone the repo and open it in suitable IDE for complete project source code. You can also fix the issues and hence contribute.
 
 
-## Contributing
 <!-- CONTRIBUTING -->
+## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the Project
@@ -170,11 +172,11 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes
 4. Push to the Branch
 5. Open a Pull Request
-## Contact
 <!-- CONTACT -->
+## Contact
 Email ID - lakshay21059@iiitd.ac.in
-## Acknowledgements
 <!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
 Lakshay Bansal lakshay21059@iiitd.ac.in
 
 

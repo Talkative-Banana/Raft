@@ -178,5 +178,5 @@ Email ID - lakshay21059@iiitd.ac.in
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 Lakshay Bansal lakshay21059@iiitd.ac.in
-Ekansh ekansh21044@iiitd.ac.in
 
+Ekansh ekansh21044@iiitd.ac.in
